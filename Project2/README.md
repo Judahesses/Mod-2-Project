@@ -1,4 +1,4 @@
-# Analyzing and Visualizing School Shootings 
+# Analyzing and Visualizing School Shootings Since 1970
   By Lois Rosenbloom and Judah Esses
 
 Packages & Libraries: 
